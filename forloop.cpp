@@ -7,3 +7,10 @@ int main()
         cout<<"SIT"<<endl;
     }
 }
+/*
+SIT
+SIT
+SIT
+SIT
+SIT
+*/
