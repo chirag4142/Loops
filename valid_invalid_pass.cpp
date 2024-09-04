@@ -17,3 +17,14 @@ int main(){
     
     return 0;
 }
+
+/*
+
+OUTPUT
+Enter password:456
+Invalid password. Please try again.
+Enter password:123
+Invalid password. Please try again.
+Enter password:1234
+Access granted
+*/
