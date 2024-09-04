@@ -24,3 +24,12 @@ int main()
         cout<<"\n";
     }
 }
+
+/*
+Enter your choice: 5
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+*/
