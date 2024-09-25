@@ -1,9 +1,8 @@
 # Loops
 Experiment 6
 ## AIM - 
-To explore the use of for and while loops.
-## Software Used
-VS Code
+To explore the use of loop in C++
+
 
 ## Theory
 Loops in C++ are control flow structures that allow for the repeated execution of a block of code. They are automate repetitive tasks, iterating over objects and implementing algorithms efficiently.
@@ -24,7 +23,7 @@ for (initialization; condition; increment/decrement) {
 using namespace std;
 
 int main() {
-    for (int i = 1; i <= 5; i++) {
+    for (int i = 1; i <= 10; i++) {
         cout << "Iteration " << i << endl;
     }
     return 0;
@@ -46,7 +45,7 @@ using namespace std;
 
 int main() {
     int number = 1;
-    while (number <= 5) {
+    while (number <= 10) {
         cout << "Number: " << number << endl;
         number++;
     }
@@ -72,7 +71,7 @@ int main() {
     do {
         cout << "Number: " << number << endl;
         number++;
-    } while (number <= 5);
+    } while (number <= 10);
     return 0;
 }
 ```
